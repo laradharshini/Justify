@@ -45,7 +45,6 @@ It supports PDF ingestion, conversational Q&A, translation, voice input, source 
 * **Audio:** SpeechRecognition, pydub, streamlit-mic-recorder
 
 ## Project Structure
-
 ```
 .
 ├── app.py                  # Main Streamlit UI + logic
